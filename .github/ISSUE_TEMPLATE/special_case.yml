@@ -1,0 +1,23 @@
+name: Neuer Spezialfall
+description: Beschreibe einen Spezialfall, der dir beim Spielen aufgefallen ist!
+title: "[SPECIAL CASE]: "
+labels: ["enhancement", "Rules: Special Case"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Beschreibung
+      description: Beschreibe, wie dein Spezialfall zustande kommt!
+      value: |
+        Jemand errät einen König (6), wodurch die Person, die erraten wurde,
+        ihre Karte (also den König) abgelegen muss.
+  - type: textarea
+    id: solution
+    attributes:
+      label: Lösungsvorschlag
+      description: Schlage vor, wie in diesem Fall regelkonform weitergespielt wird. Falls es mehrere Möglichkeiten gibt, erwähne diese ruhig, und ergänze, was du für am sinnvollsten hälst!
+      value: |
+        Da der König abgelegt wurde, muss getauscht werden. Die Person, mit der
+        getauscht wird, scheidet sehr wahrscheinlich aus, da sie am Ende des
+        Zuges nur eine Quasi-Karte auf der Hand hat (also eigentlich gar keine)
+        und nicht geschützt ist (sonst wäre Tauschen nicht möglich gewesen).

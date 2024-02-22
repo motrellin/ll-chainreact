@@ -8,3 +8,5 @@ abwechslungsreicher gestalten!
 ## Regeln
 
 1. [Basics](basics.md): Ein Überblick über alle neuen Regeln.
+2. [Spezialfälle(special/README.md): Verschiedene Szenarios, die auf den ersten
+   Blick verwirrend wirken könnten.

@@ -5,3 +5,4 @@ Blick verwirrend wirken könnten.
 
 1. [Tauschen ohne Handkarte über König](king-swap.md)
 2. [Tauschen ohne Handkarte über Kardinal](kardinal-swap.md)
+3. [Erraten des Prinzen](prince-guessing.md)

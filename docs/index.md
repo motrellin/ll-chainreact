@@ -1,3 +1,9 @@
+---
+title: Home
+layout: home
+nav_order: 1
+---
+
 # Love Letter Chainreact
 
 **Love Letter Chainreact** ist eine lustige Erweiterung für das Kartenspiel

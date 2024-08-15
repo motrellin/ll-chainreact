@@ -1,3 +1,10 @@
+---
+title: Spezialfälle
+layout: default
+nav_order: 3
+permalink: /special
+---
+
 # Spezialfälle
 
 Hier findest du eine Übersicht über verschiedene Szenarios, die auf den ersten

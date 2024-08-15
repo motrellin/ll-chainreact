@@ -1,4 +1,8 @@
-# Erraten des Kardinals
+---
+title: Erraten des Kardinals
+layout: default
+---
+# {{ page.title }}
 
 ## Beispiel
 

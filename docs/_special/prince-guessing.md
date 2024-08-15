@@ -1,4 +1,8 @@
-# Erraten des Prinzen
+---
+title: Erraten des Prinzen
+layout: default
+---
+# {{ page.title }}
 
 ## Beispiel
 

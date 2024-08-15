@@ -1,0 +1,20 @@
+title: Love Letter Chainreact
+description: "Regeln für die Chainreact-Erweiterung des Spiels 'Love Letter'!"
+theme: just-the-docs
+favicon_ico: "/assets/images/favicon.ico"
+
+url: https://motrellin.github.io/ll-chainreact/
+
+color_scheme: dark
+
+collections:
+  special:
+    permalink: "/:collection/:path/"
+    name: Special Cases
+    output: true
+
+just_the_docs:
+  collections:
+    special:
+      name: Spezialfälle
+      nav_fold: true

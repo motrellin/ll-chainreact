@@ -1,4 +1,9 @@
-# Erraten der Quasi-Karte
+---
+title: Erraten der Quasi-Karte
+layout: default
+---
+# {{ page.title }}
+# 
 
 ## Beispiel
 

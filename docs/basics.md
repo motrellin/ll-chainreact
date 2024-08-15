@@ -1,3 +1,9 @@
+---
+title: Basics
+layout: default
+permalink: /basics
+nav_order: 2
+---
 # Zusätzliche Regeln
 
 Hauptsächlich wird nur die folgende Regel ergänzt:

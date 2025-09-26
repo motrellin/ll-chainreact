@@ -1,7 +1,7 @@
 ---
 title: Erraten des Prinzen
 layout: default
-permalink: prince-guessing
+permalink: /prince-guessing
 ---
 # {{ page.title }}
 

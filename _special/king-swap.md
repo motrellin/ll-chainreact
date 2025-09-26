@@ -1,6 +1,7 @@
 ---
 title: Erraten des Königs
 layout: default
+permalink: /king-swap
 ---
 # {{ page.title }}
 

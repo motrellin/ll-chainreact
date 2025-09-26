@@ -1,6 +1,7 @@
 ---
 title: Erraten des Kardinals
 layout: default
+permalink: /kardinal-swap
 ---
 # {{ page.title }}
 

@@ -1,6 +1,7 @@
 ---
 title: Erraten der Quasi-Karte
 layout: default
+permalink: /quasi-guessing
 ---
 # {{ page.title }}
 
